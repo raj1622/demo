@@ -1,4 +1,4 @@
-name: process manager deployment
+name: demo deployment
 
 on:
   workflow_dispatch:
